@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "username": "tanerKa",
+      "userRecords":[
+		{"recordDate": "23/04/2021-14:45","hearthRate":"80","oxygenRate":"95"},
+		{"recordDate": "22/04/2021-10:00","hearthRate":"75","oxygenRate":"90"},
+		{"recordDate": "21/04/2021-18:30","hearthRate":"60","oxygenRate":"91"},
+		{"recordDate": "20/04/2021-23:15","hearthRate":"69","oxygenRate":"92"},
+		{"recordDate": "19/04/2021-06:59","hearthRate":"66","oxygenRate":"93"},
+		{"recordDate": "18/04/2021-14:25","hearthRate":"90","oxygenRate":"88"}
+	  ]
+    },
+    {
+      "username": "ayberUlas",
+      "userRecords":[
+		{"recordDate": "23/04/2021-14:45","hearthRate":"80","oxygenRate":"95"},
+		{"recordDate": "22/04/2021-10:00","hearthRate":"75","oxygenRate":"90"},
+		{"recordDate": "21/04/2021-18:30","hearthRate":"60","oxygenRate":"91"},
+		{"recordDate": "20/04/2021-23:15","hearthRate":"69","oxygenRate":"92"},
+		{"recordDate": "19/04/2021-06:59","hearthRate":"66","oxygenRate":"93"},
+		{"recordDate": "18/04/2021-14:25","hearthRate":"90","oxygenRate":"88"}
+	  ]
+    }
+  ]
+}
