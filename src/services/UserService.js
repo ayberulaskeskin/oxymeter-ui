@@ -3,7 +3,7 @@ import Axios from "axios";
 export default class UserService {
   static async Register(request) {
     return new Promise((resolve, reject) => {
-      let baseUrl = "http://localhost:5000/api/";
+      let baseUrl = "http://localhost:5000/api/";//For deployment this baseUrl must change to remote server's IP
       const headers = {
         Accept: "application/json",
         "Content-Type": "application/json",
@@ -22,7 +22,7 @@ export default class UserService {
   }
   static async Login(request) {
     return new Promise((resolve, reject) => {
-      let baseUrl = "http://localhost:5000/api/";
+      let baseUrl = "http://localhost:5000/api/";//For deployment this baseUrl must change to remote server's IP
       const headers = {
         Accept: "application/json",
         "Content-Type": "application/json",

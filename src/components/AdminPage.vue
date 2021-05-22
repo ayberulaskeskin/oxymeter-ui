@@ -179,8 +179,11 @@ export default {
           sortable: true,
           value: "date",
         },
+        { text: "TCKN", value: "tckn" },
         { text: "Hearth Rate (bpm)", value: "hearthRate" },
         { text: "Oxygen Rate (%)", value: "oxygenRate" },
+        { text: "HES Code", value: "hesCode" },
+        { text: "Patient Story", value: "patientStory" },
       ],
     };
   },

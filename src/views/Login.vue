@@ -20,7 +20,7 @@
                   label="Password"
                   v-model="Password"
                   min="8"
-                  :append-icon="e1 ? 'mdi-eye' : 'mdi-eye-off'"
+                  :append-icon="e1 ? 'mdi-eye-off' : 'mdi-eye'"
                   :type="e1 ? 'password' : 'text'"
                   @click:append="e1 = !e1"
                   :rules="passwordRules"
